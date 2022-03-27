@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0288693b-72c9-789e-2e7f-9c112dc31701
 resourcetype: Document
 title: gu_4_writ_emp_p1.pdf
 uid: c4c2f2ae-d33d-2a18-7369-deaf3f3e055b

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0288693b-72c9-789e-2e7f-9c112dc31701
 resourcetype: Other
 title: dataforrecitation.dta
 uid: 5c149091-9d33-8c4b-cb48-3947a3435f9d

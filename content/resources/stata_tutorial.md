@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0288693b-72c9-789e-2e7f-9c112dc31701
 resourcetype: Document
 title: stata_tutorial.pdf
 uid: 95758801-f2d8-ef9c-0f7b-e5e8bbe37d16

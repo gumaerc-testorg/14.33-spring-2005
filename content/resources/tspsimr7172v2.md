@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 913f213e-1772-003f-8649-4c0f756a4d86
 resourcetype: Other
 title: tspsimr7172v2.dta
 uid: 08f053ed-5bd5-12fc-24dc-bf6766f65cf5

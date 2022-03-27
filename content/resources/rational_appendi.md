@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 913f213e-1772-003f-8649-4c0f756a4d86
 resourcetype: Document
 title: rational_appendi.pdf
 uid: 2be00d2e-3d08-b34e-4261-ceeb817d4810

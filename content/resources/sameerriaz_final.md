@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 913f213e-1772-003f-8649-4c0f756a4d86
 resourcetype: Document
 title: sameerriaz_final.pdf
 uid: d92746d1-5b9f-4db3-988c-3055f9cefecb

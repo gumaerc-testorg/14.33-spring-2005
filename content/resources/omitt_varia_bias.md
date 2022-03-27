@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0288693b-72c9-789e-2e7f-9c112dc31701
 resourcetype: Document
 title: omitt_varia_bias.pdf
 uid: 691c97f3-699d-a377-536b-aa553403e9f1

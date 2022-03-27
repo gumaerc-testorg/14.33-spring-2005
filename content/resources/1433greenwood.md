@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 913f213e-1772-003f-8649-4c0f756a4d86
 resourcetype: Document
 title: 1433greenwood.pdf
 uid: ff748e66-1016-cfbd-8939-cda3d349394d

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 913f213e-1772-003f-8649-4c0f756a4d86
 resourcetype: Document
 title: 14_33_pro_set_v3.pdf
 uid: 1c08cb45-552f-39cb-ff22-869f3cd69abb
