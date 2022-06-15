@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course assignments and examples of student
+  work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 913f213e-1772-003f-8649-4c0f756a4d86
 {{< anchor "Problem_Set" >}}{{< /anchor >}}Problem Set
 ------------------------------------------------------
 
-There is one problem set ([PDF]({{< baseurl >}}/resources/14_33_pro_set_v3)) in the class, with an associated data file \[tspsimr7172v2.dta ([DTA]({{< baseurl >}}/resources/tspsimr7172v2))\]. You may find the statistical software package STATA® to be useful in solving the problems. A STATA® tutorial is available in the [study materials]({{< baseurl >}}/pages/study-materials) section.
+There is one problem set ({{% resource_link 1c08cb45-552f-39cb-ff22-869f3cd69abb "PDF" %}}) in the class, with an associated data file \[tspsimr7172v2.dta ({{% resource_link 08f053ed-5bd5-12fc-24dc-bf6766f65cf5 "DTA" %}})\]. You may find the statistical software package STATA® to be useful in solving the problems. A STATA® tutorial is available in the {{% resource_link 0288693b-72c9-789e-2e7f-9c112dc31701 "study materials" %}} section.
 
 {{< anchor "Research_Paper" >}}{{< /anchor >}}Research Paper
 ------------------------------------------------------------
@@ -20,13 +22,13 @@ The main project will be a paper that should be 10-15 pages of text (12 point Ti
 Sample Student Work
 -------------------
 
-Does a Gender Bias Exist in the Automobile Repair Industry? ([PDF]({{< baseurl >}}/resources/1433greenwood)) (Courtesy of Elizabeth Greenwood. Used with permission.)
+Does a Gender Bias Exist in the Automobile Repair Industry? ({{% resource_link ff748e66-1016-cfbd-8939-cda3d349394d "PDF" %}}) (Courtesy of Elizabeth Greenwood. Used with permission.)
 
-Rational Addiction and Massively Multiplayer Games: A case study of World of Warcraft ([PDF - 1. 2 MB]({{< baseurl >}}/resources/rational_appendi)) (Courtesy of Nick Hunter. Used with permission.)
+Rational Addiction and Massively Multiplayer Games: A case study of World of Warcraft ({{% resource_link 2be00d2e-3d08-b34e-4261-ceeb817d4810 "PDF - 1. 2 MB" %}}) (Courtesy of Nick Hunter. Used with permission.)
 
-Minorities and The New York Stock Exchange: Discrimination and Network Effects ([PDF]({{< baseurl >}}/resources/sameerriaz_final)) (Courtesy of Sameer Riaz. Used with permission.)
+Minorities and The New York Stock Exchange: Discrimination and Network Effects ({{% resource_link d92746d1-5b9f-4db3-988c-3055f9cefecb "PDF" %}}) (Courtesy of Sameer Riaz. Used with permission.)
 
-The Effects of Affirmative Action on Diversity and Student Quality ([PDF]({{< baseurl >}}/resources/leilaaffirmactfinalpaper)) (Courtesy of Leila Agha. Used with permission.)
+The Effects of Affirmative Action on Diversity and Student Quality ({{% resource_link 180d976c-394d-95f8-860e-c69929536daa "PDF" %}}) (Courtesy of Leila Agha. Used with permission.)
 
 Assignments by Weekly Session
 -----------------------------
