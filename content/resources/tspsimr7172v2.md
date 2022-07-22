@@ -7,6 +7,7 @@ file: /courses/14-33-economics-research-and-communication-spring-2005/08f053ed5b
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: tspsimr7172v2.dta
 uid: 08f053ed-5bd5-12fc-24dc-bf6766f65cf5
 ---
 Data source for Problem Set 1. The data file contains observations from 501 counties. Each observation records the change between 1972 and 1971 (i.e.,the 1972 minus the 1971 value) for each of the variables.
-

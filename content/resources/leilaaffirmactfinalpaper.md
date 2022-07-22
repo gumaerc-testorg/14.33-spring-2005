@@ -6,6 +6,7 @@ file: /courses/14-33-economics-research-and-communication-spring-2005/180d976c39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: LeilaAffirmActFinalPaper.pdf
 uid: 180d976c-394d-95f8-860e-c69929536daa
 ---
 Sample research paper courtesy of Leila Agha, a student in the class. Used with permission.
-

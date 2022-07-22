@@ -6,6 +6,7 @@ file: /courses/14-33-economics-research-and-communication-spring-2005/ff748e6610
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1433greenwood.pdf
 uid: ff748e66-1016-cfbd-8939-cda3d349394d
 ---
 Sample research paper courtesy of Elizabeth Greenwood, a student in the class. Used with permission.
-

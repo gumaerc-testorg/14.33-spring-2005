@@ -6,6 +6,7 @@ file: /courses/14-33-economics-research-and-communication-spring-2005/2be00d2e3d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rational_appendi.pdf
 uid: 2be00d2e-3d08-b34e-4261-ceeb817d4810
 ---
 Sample research paper courtesy of Nick Hunter, a student in the class. Used with permission.
-
