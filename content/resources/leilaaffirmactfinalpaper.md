@@ -2,7 +2,8 @@
 content_type: resource
 description: Sample research paper courtesy of Leila Agha, a student in the class.
   Used with permission.
-file: /courses/14-33-economics-research-and-communication-spring-2005/180d976c394d95f8860ec69929536daa_LeilaAffirmActFinalPaper.pdf
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2005/180d976c394d95f8860ec69929536daa_LeilaAffirmActFinalPaper.pdf
+file_size: 326508
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Sample research paper courtesy of Elizabeth Greenwood, a student in the
   class. Used with permission.
-file: /courses/14-33-economics-research-and-communication-spring-2005/ff748e661016cfbd8939cda3d349394d_1433greenwood.pdf
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2005/ff748e661016cfbd8939cda3d349394d_1433greenwood.pdf
+file_size: 160848
 file_type: application/pdf
 learning_resource_types:
 - Assignments

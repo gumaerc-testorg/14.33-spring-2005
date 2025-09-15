@@ -4,7 +4,8 @@ description: 'This handout gives students a format for preparing an empirical pa
   The following steps are explored in detail: introduction/motivation, literature
   review, the model, data description, econometric model, results, conclusion, and
   other general comments.'
-file: /courses/14-33-economics-research-and-communication-spring-2005/c4c2f2aed33d2a187369deaf3f3e055b_gu_4_writ_emp_p1.pdf
+file: /ol-ocw-studio-app/courses/14-33-economics-research-and-communication-spring-2005/c4c2f2aed33d2a187369deaf3f3e055b_gu_4_writ_emp_p1.pdf
+file_size: 104088
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
